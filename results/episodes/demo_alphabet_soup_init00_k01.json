@@ -1,0 +1,34 @@
+{
+  "block": "demo",
+  "suite": "libero_object",
+  "name": "alphabet_soup",
+  "task_id": 0,
+  "language": "pick up the alphabet soup and place it in the basket",
+  "init_index": 0,
+  "k": 1,
+  "seed": 0,
+  "checkpoint": "HuggingFaceVLA/smolvla_libero",
+  "revision": "HuggingFaceVLA/smolvla_libero",
+  "success": true,
+  "steps": 138,
+  "n_calls": 138,
+  "policy_s": 72.18114391400093,
+  "wall_s": 94.88913236200005,
+  "target_names": [
+    "alphabet_soup_1_main"
+  ],
+  "body_names": [
+    "alphabet_soup_1_main",
+    "basket_1_main",
+    "butter_1_main",
+    "cream_cheese_1_main",
+    "milk_1_main",
+    "salad_dressing_1_main",
+    "tomato_sauce_1_main"
+  ],
+  "n_close": 3,
+  "n_miss": 0,
+  "n_slip": 0,
+  "n_recovery": 0,
+  "n_correction": 0
+}

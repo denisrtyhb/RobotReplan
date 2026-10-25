@@ -5,6 +5,13 @@ miniforge/
 .home/
 .tmp/
 .api/
-results/
+results/*
+!results/episodes/
+!results/videos/
+results/episodes/*
+!results/episodes/demo_*.json
+!results/episodes/demo_*.npz
+results/videos/*
+!results/videos/demo_*.mp4
 __pycache__/
 *.pyc

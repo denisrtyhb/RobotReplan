@@ -1,0 +1,36 @@
+{
+  "block": "demo",
+  "suite": "libero_10",
+  "name": "soup_and_sauce",
+  "task_id": 0,
+  "language": "put both the alphabet soup and the tomato sauce in the basket",
+  "init_index": 0,
+  "k": 50,
+  "seed": 0,
+  "checkpoint": "HuggingFaceVLA/smolvla_libero",
+  "revision": "HuggingFaceVLA/smolvla_libero",
+  "success": true,
+  "steps": 414,
+  "n_calls": 9,
+  "policy_s": 6.767513274999828,
+  "wall_s": 74.14818944100011,
+  "target_names": [
+    "alphabet_soup_1_main",
+    "tomato_sauce_1_main"
+  ],
+  "body_names": [
+    "alphabet_soup_1_main",
+    "basket_1_main",
+    "butter_1_main",
+    "cream_cheese_1_main",
+    "ketchup_1_main",
+    "milk_1_main",
+    "orange_juice_1_main",
+    "tomato_sauce_1_main"
+  ],
+  "n_close": 13,
+  "n_miss": 5,
+  "n_slip": 0,
+  "n_recovery": 1,
+  "n_correction": 0
+}
