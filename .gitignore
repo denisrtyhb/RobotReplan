@@ -1,0 +1,10 @@
+miniforge/
+.conda/
+.conda-pkgs/
+.cache/
+.home/
+.tmp/
+.api/
+results/
+__pycache__/
+*.pyc
